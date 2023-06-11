@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.boku.backend.api.controllers.WithdrawalControllerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-11T18:10:23" hostname="harshit-Inspiron-5558" time="0.063">
+  <properties/>
+  <testcase name="testRequestWithdrawalInvalidRequest()" classname="com.boku.backend.api.controllers.WithdrawalControllerTest" time="0.055"/>
+  <testcase name="testRequestWithdrawal()" classname="com.boku.backend.api.controllers.WithdrawalControllerTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

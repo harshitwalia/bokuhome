@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.boku.backend.external.WithdrawalServiceStubTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-11T18:10:29" hostname="harshit-Inspiron-5558" time="0.021">
+  <properties/>
+  <testcase name="testWithdrawalRequestWithDifferentAddressOrAmount()" classname="com.boku.backend.external.WithdrawalServiceStubTest" time="0.013"/>
+  <testcase name="testWithdrawalRequestNotFound()" classname="com.boku.backend.external.WithdrawalServiceStubTest" time="0.002"/>
+  <testcase name="testWithdrawalRequestAndState()" classname="com.boku.backend.external.WithdrawalServiceStubTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
